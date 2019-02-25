@@ -1,0 +1,29 @@
+
+
+.icon{
+   color:white;
+   padding: 18px;
+}
+
+.first{
+    position: relative;
+    top: -7px;
+    left: 10px;
+}
+.second{
+    position: relative;
+    top: -72px;
+    left: 569px;
+}
+.third{
+    position: relative;
+    top: -137px;
+    left: 1155px;
+}
+
+.firstConteiner{
+    background-color: #1A9FCA;
+    width: 100%;
+    height: 60px;
+}
+

@@ -1,0 +1,7 @@
+{
+    "lib":[
+      {"nombre":"nombre01","editorial":"edit01","autor":"autor01","edicion":1},
+      {"nombre":"nombre02","editorial":"edit02","autor":"autor02","edicion":2}
+      
+  ]
+  }

@@ -1,0 +1,16 @@
+.containerInput{
+    margin: 20px;
+}
+input{
+    width: 90%;
+    border-radius: 5px;
+    border: 2px solid #ffffff;
+    outline: none;
+    border-bottom-color: #1A9FCA;
+}
+
+.search{
+    position: relative;
+    top: -22px;
+    left: 1171px;
+}

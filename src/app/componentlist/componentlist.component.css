@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.table{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}   
+.line{
+    position: relative;
+    /* left: 15%; */
+    margin: 2% 15% 5px 15%;
+    display: flex;
+    flex-direction: row;
+}
+.line p{
+    border: 2px solid white;
+    border-radius: 6px;
+    padding: 15px;
+    background-color: #DEE0E0;
+}
+.value{
+    /* position: relative; */
+    /* left: 15%; */
+    margin: 3px 15% 3px 15%;
+    display: flex;
+    flex-direction: row;
+}
+.value p{
+    border: 2px solid white;
+    border-radius: 6px;
+    padding: 15px;
+    /* background-color: #DEE0E0; */
+}
+
+.name{
+    width: 300px;
+}
+.edit{
+    width: 100px;
+}
+.autor{
+    width: 300px;
+}
+.edic{
+    width: 50px;
+}

@@ -1,4 +1,18 @@
 # BooksApps
+instalar node
+despues angular cli. npm install -g @angular/cli
+
+crear un proyecto en angular ng new nombreDelProyecto
+
+luego instalar ng serve- ejecutar el seervidor.
+
+ng generate component nombre-del-componente
+
+
+
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2.
 
